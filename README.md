@@ -1,2 +1,2 @@
-# Linktree-clone
-Clone do Linktree
+# Linktree em React
+Clone do Linktree utilizando React
