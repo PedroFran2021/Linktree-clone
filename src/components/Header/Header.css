@@ -1,0 +1,16 @@
+.perfil_conteudo {
+    margin: 35px 0;
+    text-align: center;
+    color: var(--color-terciaria);
+
+}
+
+.perfil_imagem {
+    display: block;
+    margin: auto;
+    width: 96px;
+    height: 96px;
+    background-image: url('D:\WorkSpace\Linktree em React\linktree-clone1\src\assents\WhatsApp Image 2023-05-15 at 17.43.02.jpeg');
+    background-size: cover;
+    border-radius: 50%;
+}
